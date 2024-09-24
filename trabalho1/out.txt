@@ -1,0 +1,1 @@
+valgrind --leak-check=full ./programa < entrada.in > saida.txt 2>&1
